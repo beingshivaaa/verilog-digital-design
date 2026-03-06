@@ -18,7 +18,6 @@ Files:
 * Verilog RTL code
 * Testbench
 * Waveform output (.jpeg)
-* VCD simulation file
-
+  
 Author:
 Shivv
