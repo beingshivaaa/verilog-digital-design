@@ -23,3 +23,4 @@ end
 assign zero= (result==8'b00000000);
 
 endmodule
+
